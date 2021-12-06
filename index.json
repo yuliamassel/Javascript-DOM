@@ -1,0 +1,5 @@
+[
+    {"drinkName":"Expresso","avatar":"/images/exxpreso.png","cost":"Rp. 10.000"},
+    {"drinkName":"Coffe Late","avatar":"/images/bear.png","cost":"Rp. 15.000"},
+    {"drinkName":"Cappucino","avatar":"/images/cappucino.png","cost":"Rp. 5.000"}
+]
